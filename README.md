@@ -1,5 +1,6 @@
 # monkey-and-banana
 Para resolver el requerimiento completo se deben de seguir las siguientes reglas
+
 La regla "iniciar" establece el estado inicial del problema.
 La regla "subir-monkey" indica que el mono debe subir al box.
 La regla "empujar-box" indica que el mono debe empujar el box hacia la banana.
